@@ -23,12 +23,19 @@ ToTheHilt (https://www.youtube.com/channel/UC33PfJWcyKvKQgNuMl39FQQ)
 Bom
 
 1 pack    18-8 Ss Button Head Socket Cap Screw, 4-40 Thread, 3/16" Length   (www.mcmaster.com // Part Number: 92949A105)
+
 1 pack    18-8 Ss Button Head Socket Cap Screw, 4-40 Thread, 7/16" Length   (www.mcmaster.com // Part Number: 92949A111)
+
 2         Aluminium Female Threaded Hex Standoff, 1/4" Hex, 2-1/4" Length, 4-40 Screw Size   (www.mcmaster.com // Part Number: 91780A771)
+
 5         Aluminium Female Threaded Hex Standoff, 1/4" Hex, 1" Length, 4-40 Screw Size       (www.mcmaster.com // Part Number: 91780A755)
+
 7         Aluminium Female Threaded Hex Standoff, 1/4" Hex, 3/4" Length, 4-40 Screw Size     (www.mcmaster.com // Part Number: 91780A745)
+
 17        Aluminium Female Threaded Hex Standoff, 1/4" Hex, 1/2" Length, 4-40 Screw Size     (www.mcmaster.com // Part Number: 91780A735)
+
 16        Aluminium Female Threaded Hex Standoff, 1/4" Hex, 1/4" Length, 4-40 Screw Size     (www.mcmaster.com // Part Number: 91780A720)
+
 
 
 
